@@ -27,6 +27,8 @@
 .carousel-item img{
     height: 800px;
 }
+
+
 .button-right{
     display: flex;
     align-items: center;
@@ -45,8 +47,8 @@
     align-items: center;
 }
 .protfolio{
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top:80px ;
+    padding-bottom:80px ;
 }
 .protfolio-title{
     max-width: 550px;
@@ -91,6 +93,7 @@
     color: #fff;
     font-weight: 500;
 }
+
 .feature{
     padding-bottom: 80px;
     background: #FFFFFF;
@@ -174,6 +177,7 @@
 .row-minus{
     margin-bottom: -30px;
 }
+
 /*footer-start*/
 .footer{
     padding-top: 80px;
